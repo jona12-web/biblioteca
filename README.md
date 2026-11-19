@@ -1,8 +1,3 @@
-
-# Sistema de Control de Biblioteca
-
-Un sistema web ligero y funcional desarrollado para gestionar el registro, inventario y visualización de libros, utilizando **PHP**, **MySQL**, **HTML**, **CSS** y **JavaScript**.
-
 # Sistema de Control de Biblioteca
 
 Un sistema web ligero y funcional desarrollado para gestionar el registro, inventario y visualización de libros, utilizando **PHP**, **MySQL**, **HTML**, **CSS** y **JavaScript**.
